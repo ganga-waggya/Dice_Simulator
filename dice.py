@@ -8,4 +8,3 @@ while True:
             print(number)
         else:
             break
-
